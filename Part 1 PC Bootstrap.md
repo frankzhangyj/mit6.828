@@ -4,7 +4,7 @@
 
 ### The PC's Physical Address Space
 
- PC 的物理地址空间通过硬连线具有以下总体布局：
+ PC 的物理地址空间通过硬连线具有以下总体布局:
 
 <img src="C:\Users\zyj123\AppData\Roaming\Typora\typora-user-images\image-20230913215342024.png" alt="image-20230913215342024" style="zoom: 80%;" />
 
