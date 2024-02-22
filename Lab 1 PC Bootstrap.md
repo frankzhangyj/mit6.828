@@ -8,7 +8,7 @@
 
 <img src="C:\Users\zyj123\AppData\Roaming\Typora\typora-user-images\image-20230913215342024.png" alt="image-20230913215342024" style="zoom: 80%;" />
 
-第一批 PC 基于 16 位 Intel 8088 处理器，只能寻址 1MB 物理内存。PC 的物理地址空间将从 0x00000000 开始，但以 0x000FFFFF 结束，而不是 0xFFFFFFFF。
+第一批 PC 基于 16 位 Intel 8088 处理器，只能寻址 1MB 物理内存。PC 的物理地址空间将从 0x00000000 开始，但以 0x000FFFFF 结束，而不是 0xFFFFFFFF
 
 从 0x000A0000 到 0x000FFFFF 的 384KB 区域，该保留区域中最重要的部分是基本输入/输出系统（BIOS）BIOS 负责执行基本的系统初始化，例如激活显卡和检查安装的内存量。执行此初始化后，BIOS 从某个适当的位置（例如软盘、硬盘、CD-ROM 或网络）加载操作系统，并将机器的控制权传递给操作系统。
 
